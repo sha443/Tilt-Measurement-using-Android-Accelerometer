@@ -4,8 +4,8 @@ An application to measure tilt angle in x, y and z coordinate using android's ac
 
 **Demo**
 
-![](https://github.com/Shahidcseku/Tilt-Measurement-using-Android-Accelerometer/test/Screen.png)
-![](https://github.com/Shahidcseku/Tilt-Measurement-using-Android-Accelerometer/test/Output.png)
+![](https://github.com/Shahidcseku/Tilt-Measurement-using-Android-Accelerometer/blob/master/test/Screen.png)
+![](https://github.com/Shahidcseku/Tilt-Measurement-using-Android-Accelerometer/blob/master/test/Output.png)
 
 **How to use?**
 
@@ -16,8 +16,8 @@ An application to measure tilt angle in x, y and z coordinate using android's ac
 
 **Notice**
 - You can change the source code.
-- The data will be saved if(x>10 || x<-10 || y>7 || y<-7) [A I needed]
+- The data will be saved if(x>10 || x<-10 || y>7 || y<-7) (A I needed this condition)
 
 **Links**
-- ![Linked In](https://www.linkedin.com/in/shahidcseku/)
-- ![Facebook](https://www.facebook.com/Shahidkucse)
+- [Linked In](https://www.linkedin.com/in/shahidcseku/)
+- [Facebook](https://www.facebook.com/Shahidkucse)
